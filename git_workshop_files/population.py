@@ -8,5 +8,5 @@ for line in lines:
 
     #add comment
 
+print(f"Total population: {total:,}")
 
-print(f"Average population: {total / len(lines):,}")
